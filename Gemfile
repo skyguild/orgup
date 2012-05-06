@@ -42,7 +42,7 @@ gem "paperclip", '2.7.0'
 gem 'simple_form', '2.0.1'
 gem 'kaminari', '0.13.0'
 gem "crummy", "~> 1.5.0"
-gem 'activeadmin', '0.4.3'
+gem 'devise', '2.1.0.rc'
 
 gem 'twitter-bootstrap-rails', :git => 'http://github.com/seyhunak/twitter-bootstrap-rails.git'
 gem 'bourbon', '1.3.6'
