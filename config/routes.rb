@@ -1,5 +1,6 @@
 Orgup::Application.routes.draw do
-  resources :members
+	devise_for :members
+	resources :members
 
   root :to => 'members#index'
 end
